@@ -55,7 +55,7 @@ h1{
     height: 100%;
     font-size: var(--normal-font-size);
     border: 1px solid var(--border-color);
-    border-radius: .5rem;
+    border-radius: .6rem;
     outline: none;
     padding: 1rem;
     background: none;
